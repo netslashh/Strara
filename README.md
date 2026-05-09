@@ -5,7 +5,7 @@ Built for scalability, Strara automatically collects and requires ModuleScripts 
 
 ## ✨ Features
 - 📦 Automatically loads ModuleScripts from a folder
-- 🌲 Supports nested modules (via descendants)
+- 🌲 Supports nested modules
 - 🏷️ Tag-based module loading using CollectionService
 - ⚡ Simple and fast requiring system
 - 🖥️ Server/Client logging support
